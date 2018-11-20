@@ -9,4 +9,5 @@ tasks:
 + modals for poruci, saznaj vise
 + lazy img load
 + footer menu edit
++ meta & og tags 
 + CMS Couch
